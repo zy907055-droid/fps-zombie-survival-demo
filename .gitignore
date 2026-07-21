@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash and memory captures
+sysinfo.txt
+*.stackdump
+
+# Unity asset store tools
+AssetStoreTools*
+
+# Optional local folders
+untitled folder/
+
+# Large local assets kept out of normal GitHub pushes.
+# Use Git LFS or replace with a smaller model before sharing a fully runnable project.
+Assets/Zombie/Ch10_nonPBR.fbx
