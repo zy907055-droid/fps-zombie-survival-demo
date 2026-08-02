@@ -8,7 +8,7 @@
 - 开发方向：Unity 客户端开发、玩法系统、AI 状态机、UI 交互
 - 主要场景：`Assets/Scenes/MainMenu.unity`、`Assets/Scenes/SampleScene.unity`
 
-https://github.com/user-attachments/assets/e51a0302-3941-46b3-a2f9-9ab5ad13bfa1
+[https://github.com/user-attachments/assets/e51a0302-3941-46b3-a2f9-9ab5ad13bfa1](https://github.com/user-attachments/assets/e007258c-f0e4-4c91-8950-46468dd21ab8)
 
 ## 技术栈
 
