@@ -39,16 +39,4 @@
 - `Assets/HUDManager.cs`：弹药、武器、投掷物和准星 UI 展示。
 - `Assets/SaveLoadManager.cs`：使用 PlayerPrefs 保存和读取最高波次。
 
-## 简历描述
-
-```text
-FPS僵尸生存射击 Demo
-技术栈：Unity、C#、NavMesh、Animator、UGUI/TextMeshPro、PlayerPrefs、URP
-
-基于 Unity 开发第一人称僵尸生存射击 Demo，完成玩家控制、武器系统、敌人 AI、波次系统和 HUD 展示等核心玩法模块。
-1. 实现 FPS 移动、鼠标视角、开火、换弹、开镜 ADS、弹药管理和武器切换。
-2. 实现中心射线交互系统，支持武器、弹药和投掷物的描边提示与拾取。
-3. 基于 NavMesh 和 Animator 状态机实现僵尸巡逻、追击、攻击、受击和死亡逻辑。
-4. 实现波次生成、冷却倒计时、死亡结算和最高波次本地存档，形成完整游戏循环。
-```
 
