@@ -7,7 +7,7 @@
 - 项目类型：Unity 第一人称射击 / 僵尸生存 Demo
 - 开发方向：Unity 客户端开发、玩法系统、AI 状态机、UI 交互
 - 主要场景：`Assets/Scenes/MainMenu.unity`、`Assets/Scenes/SampleScene.unity`
-
+https://github.com/user-attachments/assets/e51a0302-3941-46b3-a2f9-9ab5ad13bfa1
 ## 技术栈
 
 - Unity
